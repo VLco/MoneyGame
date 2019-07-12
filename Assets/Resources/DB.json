@@ -1,0 +1,254 @@
+{
+	"Products": [
+		{
+			"ID": "0",
+			"shopName": "Market",
+			"productName": "cheese1",
+			"count": 10,
+			"euro_price": "2.0 euro",
+			"russian_ruble_price": "300 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "1",
+			"shopName": "Market",
+			"productName": "cheese2",
+			"count": 10,
+			"euro_price": "3.20 euro",
+			"russian_ruble_price": "500 rub",
+			"us_dollar_price": "4.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "2",
+			"shopName": "Market",
+			"productName": "cheese3",
+			"count": 10,
+			"euro_price": "2.5 euro",
+			"russian_ruble_price": "450 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "3",
+			"shopName": "Market",
+			"productName": "milk1",
+			"count": 10,
+			"euro_price": "0.7 euro",
+			"russian_ruble_price": "70 rub",
+			"us_dollar_price": "2.5 $",
+			"category": "milk"
+		},
+		{
+			"ID": "4",
+			"shopName": "Market",
+			"productName": "meat1",
+			"count": 10,
+			"euro_price": "8.0 euro",
+			"russian_ruble_price": "500 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "meat"
+		},
+		{
+			"ID": "5",
+			"shopName": "Market",
+			"productName": "fruit1",
+			"count": 10,
+			"euro_price": "1.0 euro",
+			"russian_ruble_price": "40 rub",
+			"us_dollar_price": "1.9 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "6",
+			"shopName": "Market",
+			"productName": "fruit2",
+			"count": 10,
+			"euro_price": "0.9 euro",
+			"russian_ruble_price": "35 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "7",
+			"shopName": "Market",
+			"productName": "fruit3",
+			"count": 10,
+			"euro_price": "1.0 euro",
+			"russian_ruble_price": "30 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "8",
+			"shopName": "Market1",
+			"productName": "cheese1",
+			"count": 10,
+			"euro_price": "2.0 euro",
+			"russian_ruble_price": "250 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "9",
+			"shopName": "Market1",
+			"productName": "cheese2",
+			"count": 10,
+			"euro_price": "3.0 euro",
+			"russian_ruble_price": "400 rub",
+			"us_dollar_price": "4.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "10",
+			"shopName": "Market1",
+			"productName": "cheese3",
+			"count": 10,
+			"euro_price": "2.5 euro",
+			"russian_ruble_price": "300 rub",
+			"us_dollar_price": "5.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "11",
+			"shopName": "Market1",
+			"productName": "milk1",
+			"count": 10,
+			"euro_price": "0.7 euro",
+			"russian_ruble_price": "80 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "milk"
+		},
+		{
+			"ID": "12",
+			"shopName": "Market1",
+			"productName": "meat1",
+			"count": 10,
+			"euro_price": "8.0 euro",
+			"russian_ruble_price": "300 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "meat"
+		},
+		{
+			"ID": "13",
+			"shopName": "Market1",
+			"productName": "fruit1",
+			"count": 10,
+			"euro_price": "1.0 euro",
+			"russian_ruble_price": "40 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "14",
+			"shopName": "Market1",
+			"productName": "fruit2",
+			"count": 10,
+			"euro_price": "2.0 euro",
+			"russian_ruble_price": "30 rub",
+			"us_dollar_price": "0.5 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "15",
+			"shopName": "Market1",
+			"productName": "fruit3",
+			"count": 10,
+			"euro_price": "1.0 euro",
+			"russian_ruble_price": "30 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "17",
+			"shopName": "Market2",
+			"productName": "cheese1",
+			"count": 10,
+			"euro_price": "2.0 euro",
+			"russian_ruble_price": "200 rub",
+			"us_dollar_price": "1.2 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "18",
+			"shopName": "Market2",
+			"productName": "cheese2",
+			"count": 10,
+			"euro_price": "3.0 euro",
+			"russian_ruble_price": "400 rub",
+			"us_dollar_price": "5.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "19",
+			"shopName": "Market2",
+			"productName": "cheese3",
+			"count": 10,
+			"euro_price": "4.0 euro",
+			"russian_ruble_price": "500 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "cheese"
+		},
+		{
+			"ID": "20",
+			"shopName": "Market2",
+			"productName": "milk1",
+			"count": 10,
+			"euro_price": "0.8 euro",
+			"russian_ruble_price": "80 rub",
+			"us_dollar_price": "0.5 $",
+			"category": "milk"
+		},
+		{
+			"ID": "21",
+			"shopName": "Market2",
+			"productName": "meat1",
+			"count": 10,
+			"euro_price": "9.0 euro",
+			"russian_ruble_price": "300 rub",
+			"us_dollar_price": "6.5 $",
+			"category": "meat"
+		},
+		{
+			"ID": "22",
+			"shopName": "Market2",
+			"productName": "fruit1",
+			"count": 10,
+			"euro_price": "1.0 euro",
+			"russian_ruble_price": "40 rub",
+			"us_dollar_price": "1.2 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "23",
+			"shopName": "Market2",
+			"productName": "fruit2",
+			"count": 10,
+			"euro_price": "1.0 euro",
+			"russian_ruble_price": "50 rub",
+			"us_dollar_price": "0.8 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "24",
+			"shopName": "Market2",
+			"productName": "fruit3",
+			"count": 10,
+			"euro_price": "2.0 euro",
+			"russian_ruble_price": "60 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "fruit"
+		},
+		{
+			"ID": "25",
+			"shopName": "Market2",
+			"productName": "milk2",
+			"count": 10,
+			"euro_price": "0.7 euro",
+			"russian_ruble_price": "80 rub",
+			"us_dollar_price": "1.5 $",
+			"category": "milk"
+		}
+	]
+}
